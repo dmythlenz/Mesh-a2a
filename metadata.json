@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Liquid Mesh",
+  "description": "A decentralized P2P cloud gaming platform powered by autonomous agents for discovery, auditing, and streaming.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
